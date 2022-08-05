@@ -10,7 +10,7 @@ No requiere de instalación alguna, o de echo si pero es si tu gustas. 💯
 # El mio es manjaro derivado de arch, entonces es con pacman
 pacman -S cowsay
 
-# para ubunto y debian y sus derivadas
+# para ubuntu y debian y sus derivadas
 sudo apt-get install cowsay
 
 # para unix MacOs
