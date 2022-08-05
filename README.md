@@ -17,6 +17,11 @@ sudo apt-get install cowsay
 brew install cowsay
 ```
 
+* Para ejecutar el programa, simplemente debes de tener python3 > 3.7
+```sh
+python3 main.py
+```
+
 ### Disfruta de el programita 😪
 
 Puedes escribirme a mi direccion de correo si deseas
